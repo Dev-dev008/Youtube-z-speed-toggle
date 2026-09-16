@@ -60,7 +60,3 @@ const speeds = [1, 1.25, 1.5, 2, 2.5, 3];
 ```
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
